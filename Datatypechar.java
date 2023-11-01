@@ -1,6 +1,7 @@
 package datatypechar;
 
-
+/* Block Comment Added git status
+* */
 
 public class Datatypechar
 {
